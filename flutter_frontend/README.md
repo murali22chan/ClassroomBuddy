@@ -1,6 +1,6 @@
-# reboot
+# Classroom Budy
 
-A new Flutter application.
+A Flutter Frontend Application for class audio summarizer 
 
 ## Getting Started
 
